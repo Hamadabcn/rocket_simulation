@@ -18,7 +18,7 @@ You can install Pygame using pip: pip install pygame
 
 
 # Installation
-1. Clone or download the repository to your local machine.
+1. Clone or download the repository to your local machine: https://github.com/Hamadabcn/rocket_simulation.git
 2. Ensure that all the image assets (background.jpg and jupiter.png) are in the same directory as the Python script.
 
 # How to Run
